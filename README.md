@@ -180,6 +180,9 @@ Twig example:
 {% endif %}
 ```
 
+### Note:
+
+The feature flag is added to storage when it is first checked for. It is initially in deactivated (0%) state. 
 
 ## Further Reading
 
